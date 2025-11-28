@@ -25,8 +25,8 @@
 ---
 
 ### 📄 Resume & Portfolio
-- 🔗 [My Resume (PDF)](https://drive.google.com/your-resume-link) <!-- Replace with real link -->
-- 🌐 [Portfolio Website](https://yourwebsite.com) <!-- Replace with your future site or GitHub Pages -->
+- 🔗 [My Resume (PDF)](https://drive.google.com/file/d/1bW_HIkT-NSzz-mycNy3xBtqHBZX0rDvj/view?usp=sharing) <!-- Replace with real link -->
+- 🌐 [Portfolio Website]() <!-- Replace with your future site or GitHub Pages -->
 
 ---
 
