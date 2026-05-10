@@ -33,13 +33,13 @@
 
 ```python
 class Imaduddeen:
-    role        = "AI Developer Intern @ SIZH IT Solutions"
+    role        = "AI Developer @ SIZH IT Solutions"
     education   = "B.Tech IT, GGU Bilaspur (2022 – 2026)"
     location    = "Delhi, India"
-    focus       = ["GenAI", "RAG", "LangGraph Agents", "ML Systems", "Backend AI"]
-    currently   = "Shipping AI features for a CA-focused SaaS + a heavy-haul NLP chatbot"
+    focus       = ["Full Stack Dev", "GenAI", "Adv RAG", "AI Agents", "ML Systems", "Backend AI"]
+    currently   = "Automating Truck HeavyHauling + Open For Freelance"
     building    = "NextGen TechxTools — an AI tech-stack planner for startups"
-    learning    = ["Agentic workflows", "Cost-aware LLM ops", "AI on AWS Bedrock"]
+    learning    = ["Devops", "Cost-aware LLM ops", "AI on AWS Bedrock"]
     mantra      = "Ship fast, measure honestly, build in public."
 ```
 
@@ -47,11 +47,11 @@ class Imaduddeen:
 - 🔬 Deep interest in **Retrieval-Augmented Generation, multi-agent orchestration, and ML deployment**.
 - 🐦 **Building in public on X** — sharing experiments, failures, and shipped wins → [@AiWith56327](https://x.com/AiWith56327)
 - ✍️ Writing breakdowns of GenAI systems on [Medium](https://medium.com/@aiwithimad).
-- 💼 Open to **Full-Time AI / GenAI Engineer** roles starting **2026**.
+- 💼 Open to **Full-Time AI / GenAI Engineer** roles + **Freelance Opportunities**.
 
 ---
 
-## 💼 Experience Snapshot
+##  Experience Snapshot
 
 > Real impact, real numbers — not resume fluff.
 
@@ -59,18 +59,18 @@ class Imaduddeen:
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 SIZH IT Solutions Pvt. Ltd.
+###  SIZH IT Solutions Pvt. Ltd.
 **AI Developer Intern** &nbsp;·&nbsp; Noida, India
 <br/><i>December 2025 – Present</i>
 
-- 🧾 Led AI feature dev for a **CA-focused SaaS** — automated parsing of raw bills → auto-populated **Tally ERP** records.
-- ⚡ Engineered backend automation for supply-chain workflows — cut order creation from **1.5 min → 16 sec** (≈ **5.6× faster**).
-- 🤖 Built an **NLP chatbot** for a heavy-haul logistics company powering real-time order management & customer support.
+-  Led AI feature dev for a **CA-focused SaaS** — automated parsing of raw bills → auto-populated **Tally ERP** records.
+-  Engineered backend automation for supply-chain workflows — cut order creation from **1.5 min → 16 sec** (≈ **5.6× faster**).
+-  Built an **NLP chatbot** for a heavy-haul logistics company powering real-time order management & customer support.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Expertmind Technologies LLP
+###  Expertmind Technologies LLP
 **AI/ML Intern** &nbsp;·&nbsp; Bilaspur, India
 <br/><i>June – August 2025</i>
 
@@ -84,13 +84,13 @@ class Imaduddeen:
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧭 [NextGen TechxTools — Strategic AI Tech Planner](https://github.com/ImaduddeenKhan)
+####  [NextGen TechxTools — Strategic AI Tech Planner](https://github.com/ImaduddeenKhan)
 A first-of-its-kind AI tool that automates the **Discovery Phase** for startups, recommending modern, cost-effective tech stacks.
 
 - 🧠 Hybrid **retrieval + search engine** comparing curated vs. real-time tech with confidence scores.
@@ -114,7 +114,7 @@ Production-grade Retrieval-Augmented Generation for intelligent document Q&A.
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 [Human Interest Predictor — Career AI](https://github.com/ImaduddeenKhan/Career-Compass)
+####  [Human Interest Predictor — Career AI](https://github.com/ImaduddeenKhan/Career-Compass)
 Psychometric AI test that recommends ideal careers and reduces mismatch-driven burnout.
 
 - 🧬 Hybrid **XGBoost + K-Means** model on **100+ user traits** → **90% top-3 relevance**.
