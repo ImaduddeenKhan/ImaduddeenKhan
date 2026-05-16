@@ -11,12 +11,12 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/imadkhan-datascience"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/imadkhan-ai-ml"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AiWith56327"><img src="https://img.shields.io/badge/Building_in_Public-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://medium.com/@aiwithimad"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:imadkhan01430@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ImaduddeenKhan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://drive.google.com/file/d/1bW_HIkT-NSzz-mycNy3xBtqHBZX0rDvj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/13OoBP6pA9kNRFNR20jP5ZYwuTagibocB/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -29,25 +29,25 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class Imaduddeen:
-    role        = "AI Developer @ SIZH IT Solutions"
+    role        = "AI Full Stack Developer @ SIZH IT Solutions"
     education   = "B.Tech IT, GGU Bilaspur (2022 – 2026)"
     location    = "Delhi, India"
-    focus       = ["Full Stack Dev", "GenAI", "Adv RAG", "AI Agents", "ML Systems", "Backend AI"]
+    focus       = ["Production AI", "GenAI", "Adv RAG", "AI Agents", "ML Systems", "Backend AI"]
     currently   = "Automating Truck HeavyHauling + Open For Freelance"
     building    = "NextGen TechxTools — an AI tech-stack planner for startups"
     learning    = ["Devops", "Cost-aware LLM ops", "AI on AWS Bedrock"]
     mantra      = "Ship fast, measure honestly, build in public."
 ```
 
-- 🛠️ Designing **production AI systems** — from raw data → agents → measurable business impact.
-- 🔬 Deep interest in **Retrieval-Augmented Generation, multi-agent orchestration, and ML deployment**.
-- 🐦 **Building in public on X** — sharing experiments, failures, and shipped wins → [@AiWith56327](https://x.com/AiWith56327)
-- ✍️ Writing breakdowns of GenAI systems on [Medium](https://medium.com/@aiwithimad).
-- 💼 Open to **Full-Time AI / GenAI Engineer** roles + **Freelance Opportunities**.
+-  Designing **production AI systems** — from raw data → agents → measurable business impact.
+-  Deep interest in **Retrieval-Augmented Generation, multi-agent orchestration, and ML deployment**.
+-  **Building in public on X** — sharing experiments, failures, and shipped wins → [@AiWith56327](https://x.com/AiWith56327)
+-  Writing breakdowns of GenAI systems on [Medium](https://medium.com/@aiwithimad).
+-  Open to **Full-Time AI / GenAI Engineer** roles + **Freelance Opportunities**.
 
 ---
 
@@ -63,10 +63,9 @@ class Imaduddeen:
 **AI Developer Intern** &nbsp;·&nbsp; Noida, India
 <br/><i>December 2025 – Present</i>
 
--  Led AI feature dev for a **CA-focused SaaS** — automated parsing of raw bills → auto-populated **Tally ERP** records.
+-  Built many **AI Solutions** for a heavy-haul logistics company powering real-time order management & customer support.
 -  Engineered backend automation for supply-chain workflows — cut order creation from **1.5 min → 16 sec** (≈ **5.6× faster**).
--  Built an **NLP chatbot** for a heavy-haul logistics company powering real-time order management & customer support.
-
+-  Led AI feature dev for a **CA-focused SaaS** — automated parsing of raw bills → auto-populated **Tally ERP** records.
 </td>
 <td width="50%" valign="top">
 
@@ -74,9 +73,9 @@ class Imaduddeen:
 **AI/ML Intern** &nbsp;·&nbsp; Bilaspur, India
 <br/><i>June – August 2025</i>
 
-- 🎯 Designed the **AI/ML architecture** for a YouTube-style edtech platform.
-- 🧠 Built a **personalized recommendation system** to enhance content delivery and learner engagement.
-- 📈 Drove the foundation for platform-wide intelligence and behavioral analytics.
+-  Designed the **AI/ML architecture** for a YouTube-style edtech platform.
+-  Built a **personalized recommendation system** to enhance content delivery and learner engagement.
+-  Drove the foundation for platform-wide intelligence and behavioral analytics.
 
 </td>
 </tr>
@@ -263,7 +262,7 @@ I share what I'm building, breaking, and learning — across long-form and short
 I'm actively looking for **Full-Time AI / GenAI Engineer roles** and **high-impact collaborations**.<br/>
 If you're hiring, building, or just want to talk RAG and Agents — my inbox is open.
 
-📧 **imadkhan01430@gmail.com** &nbsp;·&nbsp; 📱 **+91 9125197678**
+📧 **aiwithimad@gmail.com** &nbsp;·&nbsp; 📱 **+91 9125197678**
 
 <br/>
 
