@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/ImaduddeenKhan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Imaduddeen%20Khan&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=AI%20Developer%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20RAG%20%26%20Agentic%20Systems&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+  <img src="Twitter_Banner.png" alt="header" />
 </a>
 
 <a href="https://github.com/ImaduddeenKhan">
